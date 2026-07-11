@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Kaif
 
-### Full Stack MERN Developer &nbsp;|&nbsp; MCA Student &nbsp;|&nbsp; Aspiring GenAI Architect
+### MERN Stack Developer &nbsp;|&nbsp; MCA Student &nbsp;|&nbsp; Aspiring GenAI Architect
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=553F9A&center=true&vCenter=true&width=600&lines=Building+with+the+MERN+Stack;Learning+React+Hooks+in+Depth;Next+Stop%3A+Node.js+%26+Express;Long+Term+Goal%3A+GenAI+Architect" alt="Typing SVG" />
 
@@ -15,7 +15,7 @@
 - 🎓 Pursuing **MCA** at **Hi-Tech Institute of Engineering and Technology (HIET), Ghaziabad**
 - 🎓 **BCA** graduate from **JMS Group of Institutions, Hapur**
 - 💻 Full Stack **MERN** Developer, sharpening skills through the *Chai aur Code* ecosystem
-- 🌱 Currently deep-diving into **React Hooks** — `useEffect`, `useRef`, `useCallback`
+- 🌱 Currently deep-diving into **React** — `useEffect`, `useRef`, `useCallback`
 - 🚀 Long-term goal: growing into a **GenAI / LLM Architect**
 - 🌐 Portfolio: [kaif8.netlify.app](https://kaif8.netlify.app)
 
