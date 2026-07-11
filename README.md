@@ -1,18 +1,77 @@
- # 💫 About Me:
-Hiiii....! My name is Kaif , a creative web developer who loves<br>building clean and interactive website.<br>🌱 I’m currently learning (BCA 3rd year)...
+<div align="center">
 
+# Hi 👋, I'm Kaif
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_morning_star_895) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-kaif-447557375) 
+### Full Stack MERN Developer &nbsp;|&nbsp; MCA Student &nbsp;|&nbsp; Aspiring GenAI Architect
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohkaifmohkaif52-hue&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohkaifmohkaif52-hue&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohkaifmohkaif52-hue&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=553F9A&center=true&vCenter=true&width=600&lines=Building+with+the+MERN+Stack;Learning+React+Hooks+in+Depth;Next+Stop%3A+Node.js+%26+Express;Long+Term+Goal%3A+GenAI+Architect" alt="Typing SVG" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mohkaifmohkaif52-hue&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧑‍💻 About Me
+
+- 🎓 Pursuing **MCA** at **Hi-Tech Institute of Engineering and Technology (HIET), Ghaziabad**
+- 🎓 **BCA** graduate from **JMS Group of Institutions, Hapur**
+- 💻 Full Stack **MERN** Developer, sharpening skills through the *Chai aur Code* ecosystem
+- 🌱 Currently deep-diving into **React Hooks** — `useEffect`, `useRef`, `useCallback`
+- 🚀 Long-term goal: growing into a **GenAI / LLM Architect**
+- 🌐 Portfolio: [kaif8.netlify.app](https://kaif8.netlify.app)
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,cpp,java,git,github,vscode&theme=dark" alt="Tech Stack" />
+</div>
+
+---
+
+### 🚧 Featured Projects
+
+| Project | What it does | Live Link |
+|---|---|---|
+| 🌌 **3D Interactive Portfolio** | Three.js constellation background, glassmorphism UI, 3D tilt effects | [kaif8.netlify.app](https://kaif8.netlify.app) |
+| 📝 **Quiz App** | React quiz app with live scoring, jump-to-question, glassmorphism UI | [kaif-quiz.vercel.app](https://kaif-quiz.vercel.app) |
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mr-Kaif8&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Kaif's GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=Mr-Kaif8&theme=tokyonight&hide_border=true" width="48%" alt="Kaif's GitHub Streak" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Kaif8&layout=compact&theme=tokyonight&hide_border=true" width="55%" alt="Top Languages" />
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+<a href="https://kaif8.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-553F9A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://github.com/Mr-Kaif8">
+  <img src="https://img.shields.io/badge/GitHub-6C4CCF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</p>
+
+<!--
+  LinkedIn / Twitter / Email add karne ho to same style me badge bana lena:
+  LinkedIn -> https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+  X/Twitter -> https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
+  Email     -> https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  Apna link daal ke <a href="..."><img src="..."/></a> me wrap kar dena, jaise upar do badges hain.
+-->
+
+<div align="center">
+
+*Ek commit roz, GenAI Architect ki taraf ek kadam.* ☕
+
+</div>
