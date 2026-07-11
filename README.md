@@ -24,10 +24,36 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,c,cpp,java,git,github,vscode&theme=dark" alt="Tech Stack" />
-</div>
+  <!-- Fixed Animated Typing Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=⚡+Tech+Arsenal+%26+Tools+⚡;MERN+Stack+Developer;Building+Modern+Web+Apps" alt="Typing Header" />
+  <br><br>
 
----
+  <!-- Structured Grid Dashboard -->
+  <table align="center" border="0" cellpadding="10">
+    <tr>
+      <td align="center" width="33%">
+        <h3>💻 Languages</h3>
+      </td>
+      <td align="center" width="33%">
+        <h3>🌐 MERN Stack</h3>
+      </td>
+      <td align="center" width="33%">
+        <h3>🛠️ Tools</h3>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js&theme=dark&perline=3" alt="Languages" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind&theme=dark&perline=3" alt="MERN Stack" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" alt="Tools" />
+      </td>
+    </tr>
+  </table>
+</div>---
 
 ### 🚧 Featured Projects
 
