@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Kaif
 
-### MERN Stack Developer &nbsp;|&nbsp; MCA Student &nbsp;|&nbsp; Aspiring GenAI Architect
+### Full Stack MERN Developer &nbsp;|&nbsp; MCA Student &nbsp;|&nbsp; Aspiring GenAI Architect
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=553F9A&center=true&vCenter=true&width=600&lines=Building+with+the+MERN+Stack;Learning+React+Hooks+in+Depth;Next+Stop%3A+Node.js+%26+Express;Long+Term+Goal%3A+GenAI+Architect" alt="Typing SVG" />
 
@@ -24,7 +24,7 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,cpp,java,git,github,vscode&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,c,cpp,java,git,github,vscode&theme=dark" alt="Tech Stack" />
 </div>
 
 ---
@@ -39,6 +39,16 @@
 ---
 
 ### 📈 GitHub Stats
+
+<!--
+  Agar ye cards blank/broken dikhein: github-readme-stats.vercel.app aur
+  streak-stats.demolab.com dono shared free instances hain, jo aajkal
+  overload/rate-limit ki wajah se aksar down rehte hain (inke apne GitHub
+  repo par khud kayi open bug reports hain isi issue par).
+  Permanent fix: apna khud ka instance apne Vercel account par deploy karo
+  (fork github.com/anuraghazra/github-readme-stats -> Vercel import),
+  phir neeche wale URLs me domain apne deployed URL se replace kar dena.
+-->
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Mr-Kaif8&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Kaif's GitHub Stats" />
@@ -60,15 +70,16 @@
 <a href="https://github.com/Mr-Kaif8">
   <img src="https://img.shields.io/badge/GitHub-6C4CCF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+<a href="https://www.linkedin.com/in/mr-kaif8/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://x.com/Kaifpxz">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="https://www.instagram.com/the_morning_star_895/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 </p>
-
-<!--
-  LinkedIn / Twitter / Email add karne ho to same style me badge bana lena:
-  LinkedIn -> https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-  X/Twitter -> https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
-  Email     -> https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-  Apna link daal ke <a href="..."><img src="..."/></a> me wrap kar dena, jaise upar do badges hain.
--->
 
 <div align="center">
 
