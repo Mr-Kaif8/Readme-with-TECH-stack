@@ -1,6 +1,14 @@
 <div align="center">
 
-# Hi 👋, I'm Kaif
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!%20I'm%20Moh.%20Kaif&fontSize=50&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=62" alt="Header Banner" />
+</div>
+
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Exploring+AI+Integrations;Always+Learning+New+Tech!" alt="Typing SVG" />
+</div>
 
 ### Full Stack MERN Developer &nbsp;|&nbsp; MCA Student &nbsp;|&nbsp; Aspiring GenAI Architect
 
@@ -89,21 +97,21 @@
 ### 📫 Connect with Me
 
 <p align="center">
-<a href="https://kaif8.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-553F9A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://github.com/Mr-Kaif8">
-  <img src="https://img.shields.io/badge/GitHub-6C4CCF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/mr-kaif8/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://x.com/Kaifpxz">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-<a href="https://www.instagram.com/the_morning_star_895/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+  <a href="https://kaif8.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Now-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/mr-kaif8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Kaifpxz" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/the_morning_star_895/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:mohkaifmohkaif52@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <div align="center">
