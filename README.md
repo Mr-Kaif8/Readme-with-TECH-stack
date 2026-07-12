@@ -7,10 +7,10 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Exploring+AI+Integrations;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Building+Scalable+Web+Applications;Exploring+AI+Integrations;Always+Learning+New+Tech!" alt="Typing SVG" />
 </div>
 
-### Full Stack MERN Developer &nbsp;|&nbsp; MCA Student &nbsp;|&nbsp; Aspiring GenAI Architect
+### MERN Stack Developer &nbsp;|&nbsp; MCA Student &nbsp;|&nbsp; Aspiring GenAI Architect
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=553F9A&center=true&vCenter=true&width=600&lines=Building+with+the+MERN+Stack;Learning+React+Hooks+in+Depth;Next+Stop%3A+Node.js+%26+Express;Long+Term+Goal%3A+GenAI+Architect" alt="Typing SVG" />
 
