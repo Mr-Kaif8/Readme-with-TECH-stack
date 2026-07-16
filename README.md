@@ -22,7 +22,7 @@
 
 - 🎓 Pursuing **MCA** at **Hi-Tech Institute of Engineering and Technology (HIET), Ghaziabad**
 - 🎓 **BCA** graduate from **JMS Group of Institutions, Hapur**
-- 💻 Full Stack **MERN** Developer, sharpening skills through the *Chai aur Code* ecosystem
+- 💻 **MERN** Stack Developer, 
 - 🌱 Currently deep-diving into **React** — `useEffect`, `useRef`, `useCallback`
 - 🚀 Long-term goal: growing into a **GenAI / LLM Architect**
 - 🌐 Portfolio: [kaif8.netlify.app](https://kaif8.netlify.app)
