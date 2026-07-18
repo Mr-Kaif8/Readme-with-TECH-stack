@@ -83,12 +83,25 @@
   phir neeche wale URLs me domain apne deployed URL se replace kar dena.
 -->
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mr-Kaif8&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Kaif's GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=Mr-Kaif8&theme=tokyonight&hide_border=true" width="48%" alt="Kaif's GitHub Streak" />
+ <div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Mr-Kaif8&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    width="48%"
+    alt="Kaif's GitHub Stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Mr-Kaif8&theme=tokyonight&hide_border=true"
+    width="48%"
+    alt="Kaif's GitHub Streak"
+  />
 </div>
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Kaif8&layout=compact&theme=tokyonight&hide_border=true" width="55%" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Kaif8&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    width="55%"
+    alt="Top Languages"
+  />
 </div>
 
 ---
